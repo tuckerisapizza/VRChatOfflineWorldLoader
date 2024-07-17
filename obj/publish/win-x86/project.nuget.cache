@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rk61ugPf+lFnhAloO+9f6JS1N5Sfz2fmQw4gQt/Nk4i04LP8gtcRvSXUEnJBHdgGI4Q8V6sFNDRI0pt6oNgvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tucker\\source\\repos\\VRChat Offline World Loader\\VRChat Offline World Loader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tucker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.21\\microsoft.netcore.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\Tucker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\Tucker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x86.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

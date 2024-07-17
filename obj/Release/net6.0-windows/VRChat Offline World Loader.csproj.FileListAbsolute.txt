@@ -1,0 +1,17 @@
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\VRChat Offline World Loader.exe
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\VRChat Offline World Loader.deps.json
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\VRChat Offline World Loader.runtimeconfig.json
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\VRChat Offline World Loader.dll
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\VRChat Offline World Loader.pdb
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat_Offline_World_Loader.VRChatOfflineWorldLoader.resources
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat_Offline_World_Loader.Properties.Resources.resources
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.csproj.GenerateResource.cache
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.AssemblyInfoInputs.cache
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.AssemblyInfo.cs
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.csproj.CoreCompileInputs.cache
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.dll
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\refint\VRChat Offline World Loader.dll
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.pdb
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\VRChat Offline World Loader.genruntimeconfig.cache
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\obj\Release\net6.0-windows\ref\VRChat Offline World Loader.dll

@@ -1,0 +1,5 @@
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\publish\VRChat Offline World Loader.exe
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\publish\VRChat Offline World Loader.dll
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\publish\VRChat Offline World Loader.deps.json
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\publish\VRChat Offline World Loader.runtimeconfig.json
+C:\Users\Tucker\source\repos\VRChat Offline World Loader\bin\Release\net6.0-windows\publish\VRChat Offline World Loader.pdb
